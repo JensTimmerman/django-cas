@@ -38,4 +38,5 @@ to the admin interface.
     packages=['django_cas'],
     url='https://github.com/JensTimmerman/django-cas',
     version='2.1',
+    zip_safe=False,
 )
