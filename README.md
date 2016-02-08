@@ -1,5 +1,7 @@
 = Django CAS =
 
+Forked by Jens Timmerman to add django 1.5+ support
+
 `django_cas` is a [http://www.ja-sig.org/products/cas/ CAS] 1.0 and CAS 2.0
 authentication backend for [http://www.djangoproject.com/ Django]. It allows
 you to use Django's built-in authentication mechanisms and `User` model while
